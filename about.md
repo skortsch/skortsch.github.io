@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a PhD student working with Dr. Daniel Stouffer (www.stoufferlab.org) at the University of Canterbury in Christchurch, New Zealand.
+I am a community ecologist and University researcher currently working at Åbo Akademi University in Finland
 
 ### More Information
 
@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[alyssa.cirtwill@gmail.com](mailto:alyssa.cirtwill@gmail.com)
+[skortsch@gmail.com](mailto:skortsch@gmail.com)
