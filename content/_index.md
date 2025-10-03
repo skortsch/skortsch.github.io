@@ -8,13 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Ecological Networks Group
+        Food Web Group
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **EcoNets Research Group** investigates the intercations between species in the ecosystem
+        The **Food Web Research Group** investigates trophic and non-trophic interactions among species in the ecosystem
   
   - block: collection
     content:
