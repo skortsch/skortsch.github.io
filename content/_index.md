@@ -13,7 +13,7 @@ sections:
         filename: welcome.jpg
       text: |
         <br>
-        SITE UNDER CONSTRUCTION!
+        !!! NEW GITUB PAGES UNDER CONSTRUCTION !!!
         The **Food Web Research Group** investigates trophic and non-trophic interactions among species in the ecosystem
   
   - block: collection
@@ -44,7 +44,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: kortsch_feature.jpg
           filters:
             brightness: 1
           parallax: false
