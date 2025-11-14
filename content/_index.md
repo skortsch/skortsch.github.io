@@ -13,7 +13,7 @@ sections:
         filename: welcome.jpg
       text: |
         <br>
-        
+        SITE UNDER CONSTRUCTION!
         The **Food Web Research Group** investigates trophic and non-trophic interactions among species in the ecosystem
   
   - block: collection
