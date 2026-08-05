@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello, welcome"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Hello, welcome
 
 I am a marine community and food web ecologist at the University of Helsinki, based at Tvärminne Zoological Station in southern Finland. My research seeks to understand how biodiversity underpins ecosystem functioning, stability, and resilience, with a particular focus on the role of trophic and non-trophic species interactions in shaping ecological communities.
 
