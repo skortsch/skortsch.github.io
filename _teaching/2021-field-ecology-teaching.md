@@ -1,5 +1,5 @@
 ---
-title: "•Field Ecology Course 15 Cr Online Course"
+title: "Field Ecology Course 15 Cr Online Course"
 collection: teaching
 type: "Master’s course"
 permalink: /teaching/2021-field-ecology-teaching
