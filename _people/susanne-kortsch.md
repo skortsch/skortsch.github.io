@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Susanne Kortsch"
 collection: people
 permalink: /people/susanne-kortsch/
