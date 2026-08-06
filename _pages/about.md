@@ -4,10 +4,10 @@ title: "Hello, welcome"
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
+  - /about.md
 ---
 
-The **Food Web Research Group** at the University of Helsinki is based at Tvärminne Zoological Station on the southern coast of Finland. We study how biodiversity and species interactions shape ecosystem functioning, stability, and resilience in aquatic ecosystems, with a particular focus on the ecological network structure and dynamics of food webs.
+The **Food Web Research Group** at the University of Helsinki is based at Tvärminne Zoological Station on the southern coast of Finland. We study how biodiversity and species interactions shape ecosystem functioning, stability, and resilience in aquatic ecosystems, with a particular focus on the ecological network sytc and dynamics of food webs.
 
 Our research combines empirical and theoretical approaches, integrating field surveys, mesocosm experiments, ecological network analysis, DNA metabarcoding, and ecosystem carbon-flow modelling. By combining these complementary approaches, we investigate how environmental change alters species interactions, reorganises food webs, and affects ecosystem processes across multiple spatial and temporal scales.
 

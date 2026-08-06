@@ -24,9 +24,9 @@ repository               : "skortsch/skortsch.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : ""
+  name             : "Food Web Research Group"
   pronouns         : # example: "she/her"  
-  bio              : "We study how climate change reshapes food webs and ecosystems"
+  bio              : "We study how climate change reshapes food webs and ecosystem functioning"
   location         : "Tvärminne, Finland"
   employer         : "University of Helsinki"
   uri              : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "skortsch"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -273,15 +273,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+   # _research-projects
   - scope:
       path: ""
-      type: portfolio
+      type: research-projects
     values:
       layout: single
       author_profile: true
       share: true
-      comment: true
+      comments: true
   # _people
   - scope:
       path: ""
