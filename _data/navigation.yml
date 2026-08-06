@@ -12,10 +12,10 @@ main:
   #  url: /talks/    
 
   - title: "Research Projects"
-    url: /portfolio/
+    url: /research-projects/
 
   - title: "People"
-    url: /year-archive/
+    url: /people/
 
   - title: "Publications"
     url: /publications/

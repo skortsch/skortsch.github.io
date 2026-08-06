@@ -1,0 +1,72 @@
+<article class="person-card">
+
+  {% if person.image %}
+    <a href="{{ person.url | relative_url }}" class="person-card__image-link">
+      <img
+        src="{{ person.image | relative_url }}"
+        alt="Portrait of {{ person.title }}"
+        class="person-card__image"
+      >
+    </a>
+  {% endif %}
+
+  <div class="person-card__content">
+
+    <h2 class="person-card__name">
+      <a href="{{ person.url | relative_url }}">
+        {{ person.title }}
+      </a>
+    </h2>
+
+    {% if person.position %}
+      <p class="person-card__position">
+        {{ person.position }}
+      </p>
+    {% endif %}
+
+    {% if person.institution %}
+      <p class="person-card__institution">
+        {{ person.institution }}
+      </p>
+    {% endif %}
+
+    {% if person.excerpt %}
+      <p class="person-card__description">
+        {{ person.excerpt }}
+      </p>
+    {% endif %}
+
+    <div class="person-card__links">
+
+      <a href="{{ person.url | relative_url }}">
+        Profile
+      </a>
+
+      {% if person.email %}
+        <a href="mailto:{{ person.email }}">
+          Email
+        </a>
+      {% endif %}
+
+      {% if person.orcid %}
+        <a href="{{ person.orcid }}" target="_blank" rel="noopener">
+          ORCID
+        </a>
+      {% endif %}
+
+      {% if person.googlescholar %}
+        <a href="{{ person.googlescholar }}" target="_blank" rel="noopener">
+          Google Scholar
+        </a>
+      {% endif %}
+
+      {% if person.github %}
+        <a href="{{ person.github }}" target="_blank" rel="noopener">
+          GitHub
+        </a>
+      {% endif %}
+
+    </div>
+
+  </div>
+</article>
