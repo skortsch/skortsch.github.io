@@ -1,6 +1,6 @@
 ---
 title: "Ecological Networks"
-excerpt: "Using ecological network theory to understand biodiversity, stability and ecosystem resilience.<br/><img src='/images/projects/networks.jpg'>"
+excerpt: "Using ecological network theory to understand biodiversity, stability and ecosystem resilience.<br/><img src='/images/projects/multilayer_networks.pdf'>"
 collection: research-projects
 ---
 
