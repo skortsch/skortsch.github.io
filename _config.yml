@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Susanne Kortsch / Aquatic Network Ecology Group"
+title                    : "Susanne Kortsch / Food Web Research Group"
 title_separator          : "-"
 name                     : &name "Susanne Kortsch"
 description              : &description "Marine ecologist studying food webs and ecosystem functioning"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,9 +24,9 @@ repository               : "skortsch/skortsch.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Susanne Kortsch"
+  name             : ""
   pronouns         : # example: "she/her"  
-  bio              : "Marine ecologist studying how climate change reshapes food webs and ecosystem functioning"
+  bio              : "We study how climate change reshapes food webs and ecosystems"
   location         : "Tvärminne, Finland"
   employer         : "University of Helsinki"
   uri              : # URL
