@@ -50,31 +50,88 @@
 
     <div class="person-card__links">
 
-      <a href="{{ person.url | relative_url }}">
-        Profile
+      <a
+        href="{{ person.url | relative_url }}"
+        class="person-card__icon"
+        aria-label="View {{ person.title }}'s profile"
+        title="Profile"
+      >
+        <i class="fas fa-user" aria-hidden="true"></i>
       </a>
 
       {% if person.email %}
-        <a href="mailto:{{ person.email }}">
-          Email
+        <a
+          href="mailto:{{ person.email }}"
+          class="person-card__icon"
+          aria-label="Email {{ person.title }}"
+          title="Email"
+        >
+          <i class="fas fa-envelope" aria-hidden="true"></i>
         </a>
       {% endif %}
 
       {% if person.orcid %}
-        <a href="{{ person.orcid }}" target="_blank" rel="noopener">
-          ORCID
+        <a
+          href="{{ person.orcid }}"
+          class="person-card__icon"
+          target="_blank"
+          rel="noopener"
+          aria-label="{{ person.title }} on ORCID"
+          title="ORCID"
+        >
+          <i class="fab fa-orcid" aria-hidden="true"></i>
         </a>
       {% endif %}
 
       {% if person.googlescholar %}
-        <a href="{{ person.googlescholar }}" target="_blank" rel="noopener">
-          Google Scholar
+        <a
+          href="{{ person.googlescholar }}"
+          class="person-card__icon"
+          target="_blank"
+          rel="noopener"
+          aria-label="{{ person.title }} on Google Scholar"
+          title="Google Scholar"
+        >
+          <i class="fas fa-graduation-cap" aria-hidden="true"></i>
         </a>
       {% endif %}
 
       {% if person.github %}
-        <a href="{{ person.github }}" target="_blank" rel="noopener">
-          GitHub
+        <a
+          href="{{ person.github }}"
+          class="person-card__icon"
+          target="_blank"
+          rel="noopener"
+          aria-label="{{ person.title }} on GitHub"
+          title="GitHub"
+        >
+          <i class="fab fa-github" aria-hidden="true"></i>
+        </a>
+      {% endif %}
+
+      {% if person.linkedin %}
+        <a
+          href="{{ person.linkedin }}"
+          class="person-card__icon"
+          target="_blank"
+          rel="noopener"
+          aria-label="{{ person.title }} on LinkedIn"
+          title="LinkedIn"
+        >
+          <i class="fab fa-linkedin" aria-hidden="true"></i>
+        </a>
+      {% endif %}
+
+      {% if person.researchgate %}
+        <a
+          href="{{ person.researchgate }}"
+          class="person-card__icon"
+          target="_blank"
+          rel="noopener"
+          aria-label="{{ person.title }} on ResearchGate"
+          title="ResearchGate"
+        >
+          <i class="fab fa-researchgate" aria-hidden="true"></i>
         </a>
       {% endif %}
 
