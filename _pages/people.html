@@ -10,7 +10,7 @@ author_profile: false
 <p> Meet the members of the Food Web Research Group.</p>
 
 {% assign principal_investigators = site.people | where: "group", "principal-investigator" | sort: "order" %}
-{% assign researchers = site.people | where: "group", "researcher" | sort: "order" %}
+{% assign postdoctoral_researchers = site.people | where: "group", "postdoctoral-researcher" | sort: "order" %}
 {% assign doctoral_researchers = site.people | where: "group", "doctoral-researcher" | sort: "order" %}
 {% assign students = site.people | where: "group", "student" | sort: "order" %}
 {% assign alumni = site.people | where: "group", "alumni" | sort: "order" %}
@@ -25,11 +25,11 @@ author_profile: false
 </div>
 {% endif %}
 
-{% if researchers.size > 0 %}
-<h2>Researchers</h2>
+{% if postdoctoral_researchers.size > 0 %}
+<h2>Postdoctoral Researchers</h2>
 
 <div class="people-grid">
-{% for person in researchers %}
+{% for person in postdoctoral_researchers %}
   {% include person-card.html person=person %}
 {% endfor %}
 </div>
