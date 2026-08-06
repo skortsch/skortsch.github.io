@@ -1,6 +1,6 @@
 ---
 title: "Carbon Cycling in Coastal Ecosystems"
-excerpt: "How habitat-forming species regulate carbon flow, storage and ecosystem functioning.<br/><img src='/images/projects/carbon.jpg'>"
+excerpt: "How Substrate and Habitat-modifiers Drive Variation in Coastal Carbon Dynamics.<br/><img src='/images/projects/figure1_hab_outflow.png'>"
 collection: research-projects
 ---
 
