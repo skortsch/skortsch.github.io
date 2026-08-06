@@ -1,3 +1,5 @@
+{% assign person = include.person %}
+
 <article class="person-card">
 
   {% if person.image %}
@@ -18,8 +20,18 @@
       </a>
     </h2>
 
-    {% if person.position %}
+    {% if person.role %}
       <p class="person-card__position">
+        {{ person.role }}
+      </p>
+    {% elsif person.position %}
+      <p class="person-card__position">
+        {{ person.position }}
+      </p>
+    {% endif %}
+
+    {% if person.position and person.role %}
+      <p class="person-card__institution">
         {{ person.position }}
       </p>
     {% endif %}
