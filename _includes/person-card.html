@@ -5,9 +5,17 @@
   {% if person.image %}
     <a href="{{ person.url | relative_url }}" class="person-card__image-link">
       <img
-        src="{{ person.image | relative_url }}"
-        alt="Portrait of {{ person.title }}"
-        class="person-card__image"
+         src="{{ person.image | relative_url }}"
+         alt="Portrait of {{ person.title }}"
+          class="person-card__image"
+          width="150"
+          height="150"
+          style="width: 150px !important;
+          height: 150px !important;
+          max-width: 150px !important;
+          object-fit: cover;
+          border-radius: 50%;
+          display: inline-block;"
       >
     </a>
   {% endif %}

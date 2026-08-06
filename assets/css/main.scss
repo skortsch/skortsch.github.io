@@ -41,8 +41,8 @@
 /* ============================================================
    People cards
    ============================================================ */
-
-.people-grid {
+   
+people-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 1.5rem;
@@ -60,17 +60,21 @@
 }
 
 .person-card__image-link {
-  display: block;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   padding: 1rem 1rem 0;
   text-align: center;
 }
 
-.person-card__image {
-  display: inline-block;
-  width: 150px;
-  height: 150px;
-  margin: 0;
-  border-radius: 50%;
+.person-card .person-card__image {
+  display: block !important;
+  width: 150px !important;
+  height: 150px !important;
+  min-width: 150px;
+  max-width: 150px !important;
+  margin: 0 auto !important;
+  border-radius: 50% !important;
   object-fit: cover;
 }
 
