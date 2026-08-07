@@ -27,10 +27,15 @@ excerpt: "Community and food web ecologist"
 ---
 
 
-**Email:** [susanne.kortsch@helsinki.fi](mailto:susanne.kortsch@helsinki.fi)
+**Email:** [susanne.kortsch@helsinki.fi](mailto:susanne.kortsch@helsinki.fi)  
+**ORCID:** [0000-0002-6495-4781](https://orcid.org/0000-0002-6495-4781)  
+**Google Scholar:** [View profile](https://scholar.google.com/citations?user=8F6a3pQAAAAJ)
+<!-- **Google Scholar:** [View profile](https://scholar.google.com/citations?user=8F6a3pQAAAAJ) -->
 
-[ORCID](https://orcid.org/0000-0002-6495-4781) 
-[Google Scholar](https://scholar.google.com/citations?user=8F6a3pQAAAAJ)
+<!-- {% if site.author.googlescholar %}
+<!--  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+<!-- {% endif %} -->
+
 
 ## Research Interests
 
