@@ -4,7 +4,7 @@ collection: people
 permalink: /people/aditya-kamath/
 
 group: doctoral-researcher
-role: "Doctoral Researchers"
+role: ""
 order: 1
 
 position: "Doctoral Researcher"

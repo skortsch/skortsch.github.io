@@ -4,7 +4,7 @@ collection: people
 permalink: /people/maria-samper/
 
 group: student
-role: "Technical Assistent"
+role: "Technical Assistent and former master student"
 order: 1
 
 position: "Technical Assistent"

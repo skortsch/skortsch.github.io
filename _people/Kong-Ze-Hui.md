@@ -4,7 +4,7 @@ collection: people
 permalink: /people/Kong-Ze-Hui/
 
 group: postdoctoral-researcher
-role: "Postdoctoral Researchers"
+role: ""
 order: 1
 
 position: "Postdoctoral Researcher"
