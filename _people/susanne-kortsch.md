@@ -49,7 +49,7 @@ excerpt: "Community and food web ecologist"
 
 ## About
 
-I am a marine community and food-web ecologist and Academy Research Fellow at the University of Helsinki, based at Tvärminne Zoological Station. My research seeks to understand how biodiversity and species interactions shape ecosystem functioning, resilience, and carbon cycling in a rapidly changing world.
+I am a marine community and food web ecologist and Academy Research Fellow at the University of Helsinki, based at Tvärminne Zoological Station. My research seeks to understand how biodiversity and species interactions shape ecosystem functioning, resilience, and carbon cycling in a rapidly changing world.
 
 I combine field observations, mesocosm experiments, ecological network analysis, DNA metabarcoding, and ecosystem modelling to investigate how environmental change restructures ecological communities and alters the flow of energy and carbon through marine food webs. While much of my current research focuses on Baltic Sea coastal ecosystems, I have also worked extensively on food webs in the Arctic, North Sea, Atlantic Ocean, and Southern Ocean, as well as terrestial plant-pollinator communties.
 
