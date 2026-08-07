@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Susanne Kortsch / Food Web Research Group"
+title                    : "Susanne Kortsch / Food Web Ecology Lab"
 title_separator          : "-"
 name                     : &name "Susanne Kortsch"
 description              : &description "Marine ecologist studying food webs and ecosystem functioning"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Food Web Research Group"
   pronouns         : # example: "she/her"  
-  bio              : "We study how climate change reshapes food webs and ecosystem functioning"
+  bio              : "We study how species interactions shape ecosystems in a changing world"
   location         : "Tvärminne, Finland"
   employer         : "University of Helsinki"
   uri              : # URL
