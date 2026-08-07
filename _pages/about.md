@@ -14,6 +14,5 @@ Our <a href="{{ '/research-projects' | relative_url }}">research</a> combines em
 Much of our current research focuses on Baltic Sea coastal ecosystems, where habitat-forming species such as bladderwrack (*Fucus vesiculosus*), seagrasses, and blue mussels play a central role in maintaining biodiversity and ecosystem functioning. However, We also work across a broader range of marine ecosystems, including the North Sea, Barents Sea, Atlantic Ocean, and Southern Ocean, allowing us to address fundamental ecological questions across contrasting environmental conditions.
 
 
-The group is led by <a href="{{ '/people/susanne-kortsch/' | relative_url }}">Susanne Kortsch</a>, Academy Research Fellow at the University of Helsinki. This group was awarded an Academy Research Fellowship from the Research Council of Finland for the project <a href="{{ '/research-projects/heatwave-food-webs/' | relative_url }}"><em>Heatwave-driven Rewiring of Coastal Food Webs</em></a>.This project investigates how increasingly frequent marine heatwaves restructure coastal food webs and ecosystem functioning, with the goal of improving predictions of how marine ecosystems will respond to one of the challenges of climate warming.
-
+The group is led by <a href="{{ '/people/susanne-kortsch/' | relative_url }}">Susanne Kortsch</a>, Academy Research Fellow at the University of Helsinki. 
 
