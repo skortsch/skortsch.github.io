@@ -3,7 +3,7 @@ title: "Ze Hui Kong"
 collection: people
 permalink: /people/Kong-Ze-Hui/
 
-group: postdoctoral_researchers
+group: postdoctoral-researcher
 role: "Postdoctoral Researchers"
 order: 1
 
@@ -20,7 +20,7 @@ linkedin:
 twitter:
 researchgate:
 
-image: ""
+image: "/images/people/Kong.jfif"
 
 excerpt: "Experimental ecologist"
 ---

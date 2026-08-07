@@ -7,8 +7,6 @@ author_profile: false
 
 {% include base_path %}
 
-<p> Meet the members of the Food Web Research Group.</p>
-
 {% assign principal_investigators = site.people | where: "group", "principal-investigator" | sort: "order" %}
 {% assign postdoctoral_researchers = site.people | where: "group", "postdoctoral-researcher" | sort: "order" %}
 {% assign doctoral_researchers = site.people | where: "group", "doctoral-researcher" | sort: "order" %}
