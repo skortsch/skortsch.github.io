@@ -7,7 +7,7 @@ group: student
 role: "Technical Assistent and former master student"
 order: 1
 
-position: "Technical Assistent"
+position: ""
 institution: "University of Helsinki"
 
 email: "maria.agullosamper@helsinki.fi"
