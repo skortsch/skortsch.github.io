@@ -1,6 +1,6 @@
 ---
 title: "Carbon Cycling in Coastal Ecosystems"
-excerpt: "How Substrate and Habitat-modifiers Drive Variation in Coastal Carbon Dynamics.<br/><img src='/images/projects/figure1_hab_outflow.png'>"
+excerpt: "How Substrate and Habitat-modifiers Drive Variation in Coastal Carbon Dynamics.<br/><img src='/images/projects/carbon_flow.png'>"
 collection: research-projects
 ---
 
