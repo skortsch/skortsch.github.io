@@ -1,6 +1,6 @@
 ---
 title: "Foundation Species and Coastal Biodiversity"
-excerpt: "Understanding how habitat-forming species structure coastal communities and food webs.<br/><img src='/images/projects/figure1_hab_outflow.png'>"
+excerpt: "Understanding how habitat-forming species structure coastal communities and food webs.<br/><img src='/images/projects/foundation species.png'>"
 collection: research-projects
 ---
 
