@@ -1,6 +1,6 @@
 ---
 title: "Heatwave-driven Rewiring of Coastal Food Webs"
-excerpt: "Understanding how marine heatwaves restructure coastal food webs and ecosystem functioning.<br/><img src='/images/projects/heatwave.jpg'>"
+excerpt: "Understanding how marine heatwaves restructure coastal food webs and ecosystem functioning.<br/><img src='/images/projects/food_web_rewiring.png'>"
 collection: research-projects
 ---
 
