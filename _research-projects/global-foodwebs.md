@@ -4,6 +4,6 @@ excerpt: "Comparing ecological networks from polar to temperate marine ecosystem
 collection: research-projects
 ---
 
-Our research spans ecosystems from the Arctic and Southern Oceans to the Baltic Sea.
+Our research spans marine ecosystems from the Arctic and Southern Oceans to the Baltic Sea.
 
-By comparing food webs across strong environmental gradients, we investigate how climate change, species redistributions, and biodiversity loss alter ecosystem structure, functioning and stability over large spatial scales.
+By comparing food webs across strong environmental gradients, we investigate how climate change, species redistributions alter ecosystem structure, functioning and stability over large spatial scales.
