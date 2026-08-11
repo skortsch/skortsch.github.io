@@ -4,29 +4,27 @@ collection: people
 permalink: /people/maria-samper/
 
 group: student
-role: "Technical Assistant and former master student"
+role: "Technical Assistant and Former Master's Student"
 order: 1
 
 position: ""
 institution: "University of Helsinki"
 
 email: "maria.agullosamper@helsinki.fi"
-website:
+website: ""
 orcid: "https://orcid.org/0009-0007-1284-7005"
 googlescholar: ""
 github: ""
-
-linkedin:https://www.linkedin.com/in/mar%C3%ADa-agull%C3%B3-samper/
-twitter:
-researchgate:https://www.researchgate.net/profile/Maria-Agullo-Samper?ev=hdr_xprf
+linkedin: "https://www.linkedin.com/in/mar%C3%ADa-agull%C3%B3-samper/"
+twitter: ""
+researchgate: "https://www.researchgate.net/profile/Maria-Agullo-Samper?ev=hdr_xprf"
 
 image: "/images/people/Maria.jfif"
-
-excerpt: "Network Ecologist"
+excerpt: "Network ecologist"
 ---
 
 **Email:** [maria.agullosamper@helsinki.fi](mailto:maria.agullosamper@helsinki.fi)  
-**ORCID:** [0009-0007-1284-7005](https://orcid.org/0009-0007-1284-7005)  
+**ORCID:** [0009-0007-1284-7005](https://orcid.org/0009-0007-1284-7005)¨
 
 ## Research Interests
 
