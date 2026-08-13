@@ -2,7 +2,7 @@
 title: "Climate change alters the structure of arctic marine food webs due to poleward shifts of boreal generalists"
 collection: publications
 category: manuscripts
-permalink: /publication/Ståhl2024
+permalink: /publication/Kortsch2015
 excerpt: "Exploring how food-web robustness depends on network structure and extinction thresholds."
 date: 2015-09-07
 venue: " Proceedings of Royal Society Biological sciences"
