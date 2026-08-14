@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello, welcome to Food Web Ecology Lab"
+title: "Hello, welcome to our research website"
 author_profile: true
 redirect_from: 
   - /about/
