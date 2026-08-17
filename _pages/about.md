@@ -18,10 +18,10 @@ The group is led by <a href="{{ '/people/susanne-kortsch/' | relative_url }}">Su
 
 <div style="text-align: center; margin: 3rem auto;">
 
-<p><strong><em>Extracts from 'The Temple of Nature; or, The Origin of Society'</em></strong></p>
 
 
-<p><<em> A poetic homage to the origins and interconnectedness of life, from its earliest beginnings in the ocean to the diversity of forms that followed.</em></</p>
+<p><strong><em> Extracts from 'The Temple of Nature; or, The Origin of Society'. A poetic homage to the origins and interconnectedness of life, from its earliest beginnings in the ocean to the diversity of forms that followed.</em></strong></p>
+
 
 <p><em>
 BY firm immutable immortal laws<br>
