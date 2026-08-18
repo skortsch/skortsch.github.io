@@ -20,7 +20,7 @@ The group is led by <a href="{{ '/people/susanne-kortsch/' | relative_url }}">Su
 
 
 
-<p><strong><em> Extracts from 'The Temple of Nature; or, The Origin of Society'. A poetic homage to the origins and interconnectedness of life, from its earliest beginnings in the ocean to the diversity of forms that followed.</em></strong></p>
+<p><strong><em> Extracts from 'The Temple of Nature; or, The Origin of Society' by Erasmus Darwin, 1802. He was as a physician, naturalist, poet, and early evolutionary thinker and Charles Darwin’s grandfather.</em></strong></p>
 
 
 <p><em>
@@ -49,6 +49,6 @@ And breathing realms of fin, and feet, and wing.
 
 <p><em>…</em></p>
 
-<p><em>Erasmus Darwin, 1802, wrote this poem. He was as a physician, naturalist, poet, and early evolutionary thinker and Charles Darwin’s grandfather.</em></p>
+<p><em> This poem is a homage to the origins and interconnectedness of life, from its earliest beginnings in the ocean to the diversity of forms that followed.</em></p>
 
 </div>
