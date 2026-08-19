@@ -4,35 +4,33 @@ collection: people
 permalink: /people/buse-uysaler/
 
 group: doctoral-researcher
-role: ""
+role: "Doctoral Researcher"
 order: 1
 
 position: "Doctoral Researcher"
 institution: "University of Helsinki"
 
 email: "buse.uysaler@helsinki.fi"
-website:
 orcid: "https://orcid.org/0000-0002-5818-336X"
-googlescholar: ""
 github: "https://github.com/buseuys"
-
 linkedin: "https://www.linkedin.com/in/buseuysa"
-twitter:
-researchgate: "https://www.researchgate.net/profile/Buse-Uysaler""
+researchgate: "https://www.researchgate.net/profile/Buse-Uysaler"
 
 image: "/images/people/Buse.jfif"
-
-excerpt: "Ecosystem Modeler"
+excerpt: "Ecosystem modeller"
 ---
 
-All organisms in an ecosystem are connected within food webs and play a crucial role in carbon cycling!
-I work on this concept using an ecosystem models with a food web approach to predict the dynamics and fate of carbon in different coastal Baltic Sea habitats. 
-Currently, I am pursuing my PhD at Tvärminne Zoological Station, University of Helsinki.
-🌊🪼💻
+All organisms in an ecosystem are connected through food webs and play crucial roles in carbon cycling.
 
-## Research Interests
+I study these connections using ecosystem models and food-web approaches to predict carbon dynamics and fate across different coastal habitats in the Baltic Sea.
 
-* Ecological modelling
-* Carbon cycling
-* Food web ecology
-* Biodiversity and ecosystem functioning
+I am currently pursuing my PhD at Tvärminne Zoological Station, University of Helsinki.
+
+🌊 🪼 💻
+
+## Research interests
+
+- Ecological modelling
+- Carbon cycling
+- Food-web ecology
+- Biodiversity and ecosystem functioning
