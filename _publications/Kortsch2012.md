@@ -1,7 +1,7 @@
 ---
 title: "Climate-driven regime shifts in Arctic marine benthos"
 collection: publications
-permalink: /publication/2012-climate-driven-regime-shifts
+permalink: /publication/Kortsch2012
 date: 2012-08-13
 venue: "Proceedings of the National Academy of Sciences"
 paperurl: "https://skortsch.github.io/files/Kortsch2012.pdf"
