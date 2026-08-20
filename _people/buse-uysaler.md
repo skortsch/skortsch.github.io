@@ -7,7 +7,7 @@ group: doctoral-researcher
 role: "Doctoral Researcher"
 order: 1
 
-position: "Doctoral Researcher"
+position: ""
 institution: "University of Helsinki"
 
 email: "buse.uysaler@helsinki.fi"
@@ -16,7 +16,7 @@ github: "https://github.com/buseuys"
 linkedin: "https://www.linkedin.com/in/buseuysa"
 researchgate: "https://www.researchgate.net/profile/Buse-Uysaler"
 
-image: "/images/people/Buse.jfif"
+image: "/images/people/Buse.jpg"
 excerpt: "Ecosystem modeller"
 ---
 

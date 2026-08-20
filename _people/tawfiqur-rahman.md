@@ -7,7 +7,7 @@ group: postdoctoral-researcher
 role: "Postdoctoral Researcher"
 order: 1
 
-position: "Postdoctoral Researcher"
+position: ""
 institution: "University of Helsinki"
 
 email: "tawfiqur.rahman@helsinki.fi"
