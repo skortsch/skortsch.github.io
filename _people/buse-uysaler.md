@@ -12,7 +12,7 @@ orcid: "https://orcid.org/0000-0002-5818-336X"
 github: "https://github.com/buseuys"
 linkedin: "https://www.linkedin.com/in/buseuysa"
 researchgate: "https://www.researchgate.net/profile/Buse-Uysaler"
-image: "/images/people/Buse.jpg"
+image: "/images/people/Buse.jfif"
 excerpt: "Ecosystem modeller"
 ---
 
