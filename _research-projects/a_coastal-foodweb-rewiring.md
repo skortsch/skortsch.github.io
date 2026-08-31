@@ -1,5 +1,5 @@
 ---
-title: "Heatwave-driven Rewiring of Food Webs"
+title: "Read about 'Heatwave-driven Rewiring of Food Webs'"
 excerpt: "Understanding how marine heatwaves restructure food webs and ecosystem functioning.<br/><img src='/images/projects/food_web_rewiring.png'>"
 collection: research-projects
 ---

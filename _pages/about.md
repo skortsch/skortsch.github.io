@@ -16,37 +16,5 @@ Much of our current research focuses on Baltic Sea coastal ecosystems, where hab
 
 The group is led by <a href="{{ '/people/susanne-kortsch/' | relative_url }}">Susanne Kortsch</a>, Academy Research Fellow at the University of Helsinki. 
 
-<div style="text-align: center; margin: 3rem auto;">
 
 
-
-<p><strong><em> Extracts from 'The Temple of Nature; or, The Origin of Society' by Erasmus Darwin, 1802, Charles Darwin’s grandfather.</em></strong></p>
-
-
-<p><em>
-BY firm immutable immortal laws<br>
-Impress'd on Nature by the GREAT FIRST CAUSE,<br>
-Say, MUSE! how rose from elemental strife<br>
-Organic forms, and kindled into life;<br>
-How Love and Sympathy with potent charm<br>
-Warm the cold heart, the lifted hand disarm;<br>
-Allure with pleasures, and alarm with pains,<br>
-And bind Society in golden chains.
-</em></p>
-
-<p><em>…</em></p>
-
-<p><em>
-ORGANIC LIFE beneath the shoreless waves<br>
-Was born and nurs'd in Ocean's pearly caves;<br>
-First forms minute, unseen by spheric glass,<br>
-Move on the mud, or pierce the watery mass;<br>
-These, as successive generations bloom<br>
-New powers acquire, and larger limbs assume;<br>
-Whence countless groups of vegetation spring,<br>
-And breathing realms of fin, and feet, and wing.
-</em></p>
-
-<p><em>…</em></p>
-
-</div>
